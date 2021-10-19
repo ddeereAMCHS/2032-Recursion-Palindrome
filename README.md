@@ -3,7 +3,7 @@
 ### Part 1
 
 - Create a program called `Palindrome.java`
-- Create a static method called isPalindrome that returns true if the String passed to it is a palindrome
+- Create a recursive static method called isPalindrome that returns true if the String passed to it is a palindrome
   - A palindrome is a String that is the same forwards and backwards
   - ex. racecar
 - In the main method:

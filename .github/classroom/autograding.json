@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "racecar, taco cat",
+      "setup": "javac Palindrome.java",
+      "run": "java Palindrome",
+      "input": "racecar\r\ntaco cat",
+      "output": "true\r\ntrue",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "taco cat, racecar",
+      "setup": "javac Palindrome.java",
+      "run": "java Palindrome",
+      "input": "taco cat\r\nracecar",
+      "output": "false\r\ntrue",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "mother, mom",
+      "setup": "javac Palindrome.java",
+      "run": "java Palindrome",
+      "input": "mother\r\nmom",
+      "output": "false\r\ntrue",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "dad, father",
+      "setup": "javac Palindrome.java",
+      "run": "java Palindrome",
+      "input": "dad\r\nfather",
+      "output": "true\r\nfalse",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}

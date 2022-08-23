@@ -1,5 +1,7 @@
 # Palindrome
 
+## Due: DoW MM/DD at 11:59 PM
+
 ### Part 1
 
 - Create a program called `Palindrome.java`

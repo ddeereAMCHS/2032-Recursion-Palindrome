@@ -1,6 +1,6 @@
 # Palindrome
 
-## Due: DoW MM/DD at 11:59 PM
+## Due: Wed 10/26 at 11:59 PM
 
 ### Part 1
 

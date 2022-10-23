@@ -5,7 +5,7 @@
       "setup": "javac Palindrome.java",
       "run": "java Palindrome",
       "input": "racecar\r\ntaco cat",
-      "output": "true\r\ntrue",
+      "output": "racecar is a palindrome\r\ntaco cat is a palindrome (ignoring spaces)",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -15,7 +15,7 @@
       "setup": "javac Palindrome.java",
       "run": "java Palindrome",
       "input": "taco cat\r\nracecar",
-      "output": "false\r\ntrue",
+      "output": "taco cat is not a palindrome\r\nracecar is a palindrome (ignoring spaces)",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -25,7 +25,7 @@
       "setup": "javac Palindrome.java",
       "run": "java Palindrome",
       "input": "mother\r\nmom",
-      "output": "false\r\ntrue",
+      "output": "mother is not a palindrome\r\nmom is a palindrome (ignoring spaces)",
       "comparison": "included",
       "timeout": 10,
       "points": null
@@ -35,7 +35,7 @@
       "setup": "javac Palindrome.java",
       "run": "java Palindrome",
       "input": "dad\r\nfather",
-      "output": "true\r\nfalse",
+      "output": "dad is a palindrome\r\nfather is not a palindropme (ignoring spaces)",
       "comparison": "included",
       "timeout": 10,
       "points": null

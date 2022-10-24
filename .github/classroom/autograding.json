@@ -35,7 +35,7 @@
       "setup": "javac Palindrome.java",
       "run": "java Palindrome",
       "input": "dad\r\nfather",
-      "output": "dad is a palindrome\r\nfather is not a palindropme (ignoring spaces)",
+      "output": "dad is a palindrome\r\nfather is not a palindrome (ignoring spaces)",
       "comparison": "included",
       "timeout": 10,
       "points": null

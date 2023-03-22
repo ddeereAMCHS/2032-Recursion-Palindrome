@@ -7,7 +7,7 @@
       "input": "racecar\r\ntaco cat",
       "output": "racecar is a palindrome\r\ntaco cat is a palindrome (ignoring spaces)",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -17,7 +17,7 @@
       "input": "taco cat\r\nracecar",
       "output": "taco cat is not a palindrome\r\nracecar is a palindrome (ignoring spaces)",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -27,7 +27,7 @@
       "input": "mother\r\nmom",
       "output": "mother is not a palindrome\r\nmom is a palindrome (ignoring spaces)",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     },
     {
@@ -37,7 +37,7 @@
       "input": "dad\r\nfather",
       "output": "dad is a palindrome\r\nfather is not a palindrome (ignoring spaces)",
       "comparison": "included",
-      "timeout": 10,
+      "timeout": 2,
       "points": null
     }
   ]

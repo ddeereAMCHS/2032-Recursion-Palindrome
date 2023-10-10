@@ -1,6 +1,6 @@
 # Palindrome
 
-## Due: Wed 10/26 at 11:59 PM
+## Due: Mon 10/16 at 11:59 PM
 
 - Create a program called `Palindrome.java`
 - Create a recursive static method called isPalindrome that returns true if the String passed to it is a palindrome
